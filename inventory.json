@@ -1,7 +1,7 @@
 {
   "dealership": "Castlegar Hyundai",
-  "generated_at": "2026-09-25T02:05:05",
-  "vehicle_count": 38,
+  "generated_at": "2026-09-25T02:07:55",
+  "vehicle_count": 44,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -104,7 +104,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/4ab8ab2724bc.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1443984",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1443984?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:08:07",
+      "last_verified": "2026-09-25T02:06:02",
       "price": 29249.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -116,7 +116,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/ec76b7f47e81.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1511792",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1511792?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:08:16",
+      "last_verified": "2026-09-25T02:06:09",
       "price": 29249.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -128,7 +128,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/e44c16c56ed7.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1511793",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1511793?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:08:23",
+      "last_verified": "2026-09-25T02:06:16",
       "price": 29249.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -140,7 +140,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/c5cd8fb56976.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1537985",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1537985?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:08:31",
+      "last_verified": "2026-09-25T02:06:23",
       "price": 25249.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -152,7 +152,29 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/7345b3082818.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1574988",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1574988?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:08:39",
+      "last_verified": "2026-09-25T02:06:30",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC serving Grand Forks",
+      "vin": "KMHLM4DG6TU204472",
+      "stock": "56315VI",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/58913b0a105b.html",
+      "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1587134",
+      "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1587134?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:05:17",
+      "price": 29249.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC",
+      "vin": "KMHLM4DG4TU286380",
+      "stock": "56833VI",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/5f28dfe32557.html",
+      "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1590560",
+      "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1590560?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:05:24",
       "condition": "new"
     },
     {
@@ -162,7 +184,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/8790c48874cf.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-IONIQ-9/1342128",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-IONIQ-9/1342128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:08:45",
+      "last_verified": "2026-09-25T02:06:40",
       "price": 79799.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -174,7 +196,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/c2e331810701.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Kona-Electric/1558103",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Kona-Electric/1558103?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:08:54",
+      "last_verified": "2026-09-25T02:06:46",
       "price": 40085.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -186,7 +208,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/6e4dd6b30da4.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Kona-Electric/1568698",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Kona-Electric/1568698?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:01",
+      "last_verified": "2026-09-25T02:06:53",
       "price": 41585.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -198,7 +220,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/35b155e5f8bd.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Kona/1445624",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Kona/1445624?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:11",
+      "last_verified": "2026-09-25T02:07:01",
       "price": 35749.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -210,7 +232,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/6bb4d5e3e72a.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Palisade/1534357",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Palisade/1534357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:20",
+      "last_verified": "2026-09-25T02:07:08",
       "condition": "new"
     },
     {
@@ -220,7 +242,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/860ceb5999a0.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1534359",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1534359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:27",
+      "last_verified": "2026-09-25T02:07:14",
       "price": 59049.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -232,7 +254,17 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/9839c58ae5b1.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587131",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:35",
+      "last_verified": "2026-09-25T02:07:24",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Hyundai Santa Fe Hybrid Ultimate Calligraphyfor sale in Castlegar, BC serving Trail",
+      "vin": "KM8P5DG19TU207677",
+      "stock": "56728VI",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/3bd0d35a9d75.html",
+      "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587132",
+      "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:05:33",
       "condition": "new"
     },
     {
@@ -242,7 +274,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/7fff4bc85edc.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1443911",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1443911?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:42",
+      "last_verified": "2026-09-25T02:07:32",
       "price": 46449.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -254,7 +286,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/4bc291972ac1.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1445626",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1445626?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:51",
+      "last_verified": "2026-09-25T02:07:42",
       "price": 46449.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -266,7 +298,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/a7f42b847e48.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1495687",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1495687?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T01:09:59",
+      "last_verified": "2026-09-25T02:07:50",
       "price": 49499.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -294,6 +326,28 @@
       "condition": "new"
     },
     {
+      "name": "New2026 Hyundai Tucson Hybrid Ultimatefor sale in Castlegar, BC serving Rossland",
+      "vin": "KM8JCDD19TU501919",
+      "stock": "56535VI",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/b37cda920e0a.html",
+      "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1587133",
+      "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1587133?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:05:39",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Hyundai Tucson Plug-In Hybrid Ultimatefor sale in Castlegar, BC",
+      "vin": "KM8JDDD27TU532348",
+      "stock": "57168VI",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/3e8bb0fe3117.html",
+      "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Plug-In-Hybrid/1601176",
+      "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Plug-In-Hybrid/1601176?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:05:47",
+      "price": 49517.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "New2026 Hyundai Tucson Preferredfor sale in Castlegar, BC",
       "vin": "KM8JBCDEXTU491739",
       "stock": "56835VI",
@@ -301,6 +355,16 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson/1587119",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson/1587119?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T01:10:19",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Hyundai Venue Preferredfor sale in Castlegar, BC",
+      "vin": "KMHRC8A31TU498966",
+      "stock": "57323VI",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/b1442a0fa286.html",
+      "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Venue/1615545",
+      "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Venue/1615545?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:05:55",
       "condition": "new"
     },
     {
