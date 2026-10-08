@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Hyundai",
-  "generated_at": "2026-09-26T05:30:22",
+  "generated_at": "2026-10-08T14:35:33",
   "vehicle_count": 44,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2014-Jeep-Wrangler-Unlimited/1589306?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:11:39",
       "odometer_km": 207052,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "Used2019 Jeep Grand Cherokee Overlandfor sale in Castlegar, BC",
@@ -25,7 +27,9 @@
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2019-Jeep-Grand-Cherokee/1519153?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:11:48",
       "odometer_km": 69021,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "Used2020 Hyundai Palisade Ultimatefor sale in Castlegar, BC",
@@ -38,7 +42,9 @@
       "price": 23999.0,
       "price_currency": "CAD",
       "odometer_km": 151264,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "Used2021 Hyundai Elantra Hybrid Ultimatefor sale in Castlegar, BC",
@@ -49,7 +55,9 @@
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2021-Hyundai-Elantra-Hybrid/1609271?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:12:01",
       "odometer_km": 98288,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "Used2023 Ford Bronco Sport Basefor sale in Castlegar, BC",
@@ -60,7 +68,9 @@
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2023-Ford-Bronco-Sport/1572429?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:12:08",
       "odometer_km": 60664,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "Used2023 Hyundai Santa Fe Preferredfor sale in Castlegar, BC",
@@ -71,7 +81,9 @@
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2023-Hyundai-Santa-Fe/1589303?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:12:15",
       "odometer_km": 21363,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "Certified Pre-Owned2024 Hyundai Santa Cruz Ultimatefor sale in Castlegar, BC",
@@ -82,7 +94,9 @@
       "dealer_url": "https://www.castlegarhyundai.com/inventory/Used-2024-Hyundai-Santa-Cruz/1592062?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:12:23",
       "odometer_km": 25350,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "Certified Pre-Owned2025 Hyundai Santa Fe Hybrid Preferredfor sale in Castlegar, BC",
@@ -95,7 +109,9 @@
       "price": 42190.0,
       "price_currency": "CAD",
       "odometer_km": 35763,
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC serving Grand Forks",
@@ -107,7 +123,9 @@
       "last_verified": "2026-09-25T02:06:02",
       "price": 29249.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC serving Trail",
@@ -119,7 +137,9 @@
       "last_verified": "2026-09-25T02:06:09",
       "price": 29249.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC serving Rossland",
@@ -131,7 +151,9 @@
       "last_verified": "2026-09-25T02:06:16",
       "price": 29249.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Elantra Essentialfor sale in Castlegar, BC serving Creston",
@@ -143,7 +165,9 @@
       "last_verified": "2026-09-25T02:06:23",
       "price": 25249.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC serving Trail",
@@ -153,7 +177,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1574988",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1574988?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:06:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC serving Grand Forks",
@@ -165,7 +191,9 @@
       "last_verified": "2026-09-25T02:05:17",
       "price": 29249.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Elantra Preferredfor sale in Castlegar, BC",
@@ -175,7 +203,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1590560",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Elantra/1590560?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:05:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai IONIQ 9 Preferred +for sale in Castlegar, BC",
@@ -187,7 +217,9 @@
       "last_verified": "2026-09-25T02:06:40",
       "price": 79799.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Kona Electric Preferredfor sale in Castlegar, BC serving Rossland",
@@ -199,7 +231,9 @@
       "last_verified": "2026-09-25T02:06:46",
       "price": 40085.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Kona Electric Preferredfor sale in Castlegar, BC serving Trail",
@@ -211,7 +245,9 @@
       "last_verified": "2026-09-25T02:06:53",
       "price": 41585.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Kona Preferredfor sale in Castlegar, BC",
@@ -223,7 +259,9 @@
       "last_verified": "2026-09-25T02:07:01",
       "price": 35749.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Palisade Ultimate Calligraphyfor sale in Castlegar, BC",
@@ -233,7 +271,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Palisade/1534357",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Palisade/1534357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:07:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Santa Fe Hybrid Ultimate Calligraphyfor sale in Castlegar, BC serving Rossland",
@@ -245,7 +285,9 @@
       "last_verified": "2026-09-25T02:07:14",
       "price": 59049.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Santa Fe Hybrid Ultimate Calligraphyfor sale in Castlegar, BC serving Nelson",
@@ -255,7 +297,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587131",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:07:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Santa Fe Hybrid Ultimate Calligraphyfor sale in Castlegar, BC serving Trail",
@@ -265,7 +309,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587132",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Santa-Fe-Hybrid/1587132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:05:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid N-Linefor sale in Castlegar, BC serving Nelson",
@@ -277,7 +323,9 @@
       "last_verified": "2026-09-25T02:07:32",
       "price": 46449.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid N-Linefor sale in Castlegar, BC",
@@ -289,7 +337,9 @@
       "last_verified": "2026-09-25T02:07:42",
       "price": 46449.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid Ultimatefor sale in Castlegar, BC serving Nelson",
@@ -301,7 +351,9 @@
       "last_verified": "2026-09-25T02:07:50",
       "price": 49499.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid Night Editionfor sale in Castlegar, BC serving Creston",
@@ -311,7 +363,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1514805",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1514805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:28:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid Ultimatefor sale in Castlegar, BC serving Trail",
@@ -323,7 +377,9 @@
       "last_verified": "2026-09-26T05:28:39",
       "price": 49849.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid Ultimatefor sale in Castlegar, BC serving Rossland",
@@ -333,7 +389,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1587133",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1587133?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:05:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Plug-In Hybrid Ultimatefor sale in Castlegar, BC",
@@ -345,7 +403,9 @@
       "last_verified": "2026-09-25T02:05:47",
       "price": 49517.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Tucson Preferredfor sale in Castlegar, BC",
@@ -355,7 +415,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson/1587119",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson/1587119?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:28:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2026 Hyundai Venue Preferredfor sale in Castlegar, BC",
@@ -365,7 +427,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Venue/1615545",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Venue/1615545?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T02:05:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Ioniq 5 Preferredfor sale in Castlegar, BC",
@@ -375,7 +439,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Ioniq-5/1615538",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Ioniq-5/1615538?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:28:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Essentialfor sale in Castlegar, BC serving Trail",
@@ -385,7 +451,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590022",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590022?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Essentialfor sale in Castlegar, BC",
@@ -395,7 +463,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590590",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590590?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Essentialfor sale in Castlegar, BC serving Nelson",
@@ -405,7 +475,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590591",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590591?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Essentialfor sale in Castlegar, BC",
@@ -415,7 +487,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606026",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606026?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Preferredfor sale in Castlegar, BC serving Nelson",
@@ -425,7 +499,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606101",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Preferredfor sale in Castlegar, BC serving Rossland",
@@ -435,7 +511,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606179",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606179?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Preferredfor sale in Castlegar, BC serving Trail",
@@ -445,7 +523,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606232",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Preferredfor sale in Castlegar, BC",
@@ -455,7 +535,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1615546",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1615546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:29:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Kona Preferredfor sale in Castlegar, BC serving Nelson",
@@ -465,7 +547,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1615547",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1615547?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:30:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Palisade Hybrid Luxuryfor sale in Castlegar, BC",
@@ -475,7 +559,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Palisade-Hybrid/1590564",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Palisade-Hybrid/1590564?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:30:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "New2027 Hyundai Santa Fe Hybrid Preferredfor sale in Castlegar, BC",
@@ -485,7 +571,9 @@
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Santa-Fe-Hybrid/1601986",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Santa-Fe-Hybrid/1601986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:30:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     }
   ]
 }
