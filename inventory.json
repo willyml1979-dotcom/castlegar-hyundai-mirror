@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Hyundai",
-  "generated_at": "2026-10-09T23:38:52",
+  "generated_at": "2026-10-09T23:41:28",
   "vehicle_count": 47,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -326,8 +326,8 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/a7f42b847e48.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1495687",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1495687?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:07:50",
-      "price": 49499.0,
+      "last_verified": "2026-10-09T23:39:33",
+      "price": 48999.0,
       "price_currency": "CAD",
       "condition": "new",
       "city": "Castlegar",
@@ -340,7 +340,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/6b2b4d37f50b.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1514805",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1514805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:28:31",
+      "last_verified": "2026-10-09T23:39:42",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -352,7 +352,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/d75e718bc412.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1527928",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson-Hybrid/1527928?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:28:39",
+      "last_verified": "2026-10-09T23:39:49",
       "price": 49849.0,
       "price_currency": "CAD",
       "condition": "new",
@@ -400,13 +400,13 @@
       "province": "BC"
     },
     {
-      "name": "New2026 Hyundai Tucson Preferredfor sale in Castlegar, BC",
+      "name": "New2026 Hyundai Tucson Preferredfor sale in Castlegar, BC serving Rossland",
       "vin": "KM8JBCDEXTU491739",
       "stock": "56835VI",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/17e7a8dafdfb.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson/1587119",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2026-Hyundai-Tucson/1587119?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:28:45",
+      "last_verified": "2026-10-09T23:39:57",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -436,13 +436,13 @@
       "province": "BC"
     },
     {
-      "name": "New2027 Hyundai Ioniq 5 Preferredfor sale in Castlegar, BC",
+      "name": "New2027 Hyundai Ioniq 5for sale in Castlegar, BC",
       "vin": "KM8KNDDC9VU425749",
       "stock": "57319VI",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/04c708b5a7ae.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Ioniq-5/1615538",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Ioniq-5/1615538?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:28:53",
+      "last_verified": "2026-10-09T23:40:05",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -467,7 +467,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/1c5beb76381d.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590022",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590022?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:00",
+      "last_verified": "2026-10-09T23:40:12",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -479,7 +479,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/787b45b776da.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590590",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590590?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:07",
+      "last_verified": "2026-10-09T23:40:18",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -491,7 +491,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/abb0ac87c260.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590591",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1590591?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:15",
+      "last_verified": "2026-10-09T23:40:25",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -503,7 +503,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/f7193b6d6bfa.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606026",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606026?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:23",
+      "last_verified": "2026-10-09T23:40:33",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -515,7 +515,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/932fd8ecc13c.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606101",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:30",
+      "last_verified": "2026-10-09T23:40:41",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -527,7 +527,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/8ab42c14f46d.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606179",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606179?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:37",
+      "last_verified": "2026-10-09T23:40:49",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -539,7 +539,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/15029c3e7f6f.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606232",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1606232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:44",
+      "last_verified": "2026-10-09T23:40:58",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -551,7 +551,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/55aaf31a05a3.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1615546",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Kona/1615546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:29:52",
+      "last_verified": "2026-10-09T23:41:07",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -581,13 +581,13 @@
       "province": "BC"
     },
     {
-      "name": "New2027 Hyundai Palisade Hybrid Luxuryfor sale in Castlegar, BC",
+      "name": "New2027 Hyundai Palisade Hybrid Luxuryfor sale in Castlegar, BC serving Grand Forks",
       "vin": "KM8RKESA4VU126698",
       "stock": "56834VI",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/e3e199bd1a95.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Palisade-Hybrid/1590564",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Palisade-Hybrid/1590564?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:30:08",
+      "last_verified": "2026-10-09T23:41:14",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
@@ -611,7 +611,7 @@
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/8c9b027521fa.html",
       "source_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Santa-Fe-Hybrid/1601986",
       "dealer_url": "https://www.castlegarhyundai.com/inventory/New-2027-Hyundai-Santa-Fe-Hybrid/1601986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:30:16",
+      "last_verified": "2026-10-09T23:41:24",
       "condition": "new",
       "city": "Castlegar",
       "province": "BC"
