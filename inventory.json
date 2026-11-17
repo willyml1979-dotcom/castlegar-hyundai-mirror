@@ -1,28 +1,20 @@
 {
   "dealership": "Castlegar Hyundai",
-  "generated_at": "2026-10-26T07:42:21",
-  "vehicle_count": 54,
+  "generated_at": "2026-11-17T08:14:40",
+  "vehicle_count": 52,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "Used2014 Jeep Wrangler Unlimited Rubiconfor sale in Castlegar, BC",
-      "vin": "1C4BJWFG9EL108300",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/82becd3651bc.html",
-      "condition": "used",
-      "price": 17999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2018 Hyundai Santa Fe Sport Limitedfor sale in Castlegar, BC",
-      "vin": "5NMZUDLA2JH074707",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/54410880d8b7.html",
+      "name": "Used2017 Hyundai Elantra GLfor sale in Castlegar, BC",
+      "vin": "KMHD84LFXHU242926",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/da946cc0f8d1.html",
       "condition": "used"
     },
     {
-      "name": "Used2019 Hyundai Tucson Ultimatefor sale in Castlegar, BC",
-      "vin": "KM8J3CAL6KU881333",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/5748c1ffb227.html",
+      "name": "Used2018 Hyundai Elantra GLfor sale in Castlegar, BC",
+      "vin": "KMHD84LF2JU515895",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/1ce5ccf36ad0.html",
       "condition": "used"
     },
     {
@@ -32,35 +24,15 @@
       "condition": "used"
     },
     {
-      "name": "Used2020 Toyota Camry SEfor sale in Castlegar, BC",
-      "vin": "4T1G11AK6LU381119",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/2c39bae31e34.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2022 Tesla Model Y Long Rangefor sale in Castlegar, BC",
-      "vin": "7SAYGDEE3NF338806",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/dc58b07dc330.html",
-      "condition": "used",
-      "price": 39999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2023 Hyundai Kona Electric Ultimatefor sale in Castlegar, BC",
-      "vin": "KM8K33AG5PU177705",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/63de931c3272.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2023 Kia Sorento EX+for sale in Castlegar, BC",
-      "vin": "5XYRHDLF6PG193332",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/06171afa45af.html",
+      "name": "Used2024 Hyundai Elantra Preferredfor sale in Castlegar, BC",
+      "vin": "KMHLM4DG1RU739069",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/1bd943438f6d.html",
       "condition": "used"
     },
     {
       "name": "Used2024 Hyundai Kona Preferredfor sale in Castlegar, BC",
-      "vin": "KM8HBCAB0RU069139",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/3f019ebdd43f.html",
+      "vin": "KM8HCCAB6RU092132",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/df1ba4185225.html",
       "condition": "used"
     },
     {
@@ -72,17 +44,27 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Pre-Owned2025 Hyundai Santa Fe Hybrid Preferredfor sale in Castlegar, BC",
-      "vin": "KM8P3DG17SU093179",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/683f7971911a.html",
-      "condition": "used",
-      "price": 41400.0,
-      "price_currency": "CAD"
+      "name": "Used2024 Kia Sportage X-Linefor sale in Castlegar, BC",
+      "vin": "KNDPUCDFXR7270652",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/ba5a0f1b1513.html",
+      "condition": "used"
     },
     {
-      "name": "Used2025 Hyundai Tucson Preferredfor sale in Castlegar, BC",
-      "vin": "KM8JBCDE6SU428166",
-      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/536fc7b291b1.html",
+      "name": "Used2024 Toyota Corolla Cross Lfor sale in Castlegar, BC",
+      "vin": "7MUAAABG7RV094007",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/6338a9996e77.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Hyundai Kona Electric Preferred w/Trend Packagefor sale in Castlegar, BC",
+      "vin": "KM8HD3A69SU026373",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/e1fd6cdab9c1.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Hyundai Kona N Line Ultimatefor sale in Castlegar, BC",
+      "vin": "KM8HECA38SU193147",
+      "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/8a5fe389a7c1.html",
       "condition": "used"
     },
     {
