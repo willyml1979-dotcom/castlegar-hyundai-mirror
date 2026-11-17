@@ -1,6 +1,6 @@
 # Castlegar Hyundai
 
- dealership in Castlegar. AI-readable inventory mirror, about 52 vehicles.
+ dealership in Castlegar. AI-readable inventory mirror, about 58 vehicles.
 
 - Official website: https://www.castlegarhyundai.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/

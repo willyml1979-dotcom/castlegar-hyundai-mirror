@@ -7,7 +7,7 @@ Castlegar Hyundai is a  dealership in Castlegar. This site is an AI-readable mir
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/ and https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/ (about 52 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/used/ and https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/ (about 58 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/llms.txt
