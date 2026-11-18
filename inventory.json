@@ -1,6 +1,6 @@
 {
   "dealership": "Castlegar Hyundai",
-  "generated_at": "2026-11-18T00:03:59",
+  "generated_at": "2026-11-18T00:07:31",
   "vehicle_count": 58,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -177,19 +177,25 @@
       "name": "New2026 Hyundai Tucson Hybrid Ultimatefor sale in Castlegar, BC serving Creston",
       "vin": "KM8JCDD11TU533540",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/b88eaea6d361.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 49849.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid Ultimatefor sale in Castlegar, BC",
       "vin": "KM8JCDD16TU533842",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/4adf59037276.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 49849.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026 Hyundai Tucson Hybrid Ultimatefor sale in Castlegar, BC serving Nelson",
       "vin": "KM8JCDD14TU533726",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/4ed48dc16752.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 49849.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026 Hyundai Tucson Preferredfor sale in Castlegar, BC serving Rossland",
@@ -209,7 +215,9 @@
       "name": "New2026 Hyundai Tucson Preferredfor sale in Castlegar, BC serving Rossland",
       "vin": "KM8JCCDE7TU496409",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/e3e63ee23a47.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 40749.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026 Hyundai Tucson Preferredfor sale in Castlegar, BC serving Grand Forks",
@@ -246,7 +254,7 @@
       "vin": "KM8HD3A63VU048678",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/636c323a6884.html",
       "condition": "new",
-      "price": 43985.0,
+      "price": 42485.0,
       "price_currency": "CAD"
     },
     {
@@ -377,7 +385,9 @@
       "name": "New2027 Hyundai Santa Fe Hybrid Preferredfor sale in Castlegar, BC",
       "vin": "KM8P3DG10VU219368",
       "url": "https://willyml1979-dotcom.github.io/castlegar-hyundai-mirror/new/8c9b027521fa.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 54159.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2027 Hyundai Santa Fe Hybrid Ultimate Calligraphyfor sale in Castlegar, BC",
